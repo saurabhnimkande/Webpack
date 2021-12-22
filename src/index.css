@@ -1,0 +1,17 @@
+* {
+    margin:0px;
+}
+#navbar {
+    color:red;
+    padding:10px;
+    font-size: 22px;
+    text-align:center;
+    background-color: rgb(240, 255, 107);
+}
+#paragraph {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+img {
+    width: 100px;
+}
